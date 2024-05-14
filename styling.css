@@ -1,0 +1,12 @@
+/* Font and text styling */
+h1 {
+    font-family: 'Arial', sans-serif;
+    font-size: 36px;
+    color: #444;
+    text-align: center;
+}
+
+em {
+    font-style: italic;
+    color: #888;
+}
